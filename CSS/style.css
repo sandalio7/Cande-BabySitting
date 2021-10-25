@@ -1,0 +1,27 @@
+.text-white{
+    color: white;
+}
+
+.text-negro{
+    color: rgb(59, 59, 59);
+}
+
+.carruselTamaño{
+    width: 100%;
+    height: 520px;
+}
+
+.btnRegister{
+    background-color: rgb(99, 96, 96);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.nineras{
+    margin-right:570px;
+}
+
+
